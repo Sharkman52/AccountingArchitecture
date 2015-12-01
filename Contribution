@@ -1,0 +1,16 @@
+
+               To: TheGNUdist/AccountingArchitecture
+               
+               From: Andrew Woodward, Caleb McGee, Alexandra Nguyen
+               
+               Subject: Architecture contribution rationale
+               
+               Date: November 30, 2015
+               
+               The purpose of our changes to the accounting architecture is to inform the 
+               reader about the origins of the open source movement and why it's important 
+               for accountants to understand how to use open source software. 
+               We also included information about the benefits of open source over proprietary
+               software, these being ease of use, reduced costs, and a more dynamic system that can better suit the user. 
+               In some instances, firms will wait for proprietary software companies to release a patch if software doesn't meet their exact requirements. 
+               Open source in much faster at issuing changes to allow individual firms a chance to customize their software.
